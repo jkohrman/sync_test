@@ -9,3 +9,5 @@ published: true
 post_date: 2017-10-01 03:30:17
 ---
 This is a post that should be synchronized.
+
+And here's an edit to change the thing.
